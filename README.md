@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Ivan Rozhkov.
-- 👀 I’m interested in golang development and open to new opportunities.
-- 📫 Feel free to reachout using my email rozhkov92@gmail.com
+- 👀 I’m interested in backend development and open to new opportunities.
+- 📫 Feel free to reach out using my email ivan@ivanrozhkov.com
